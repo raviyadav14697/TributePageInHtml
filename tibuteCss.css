@@ -1,0 +1,18 @@
+body {
+  margin-top:50px;
+}
+
+div {
+    text-align: justify;
+    text-justify: inter-word;
+}   
+
+
+ h2 {
+      background-color:  #777777;
+      font-size: 35px;
+}
+
+    #heading  :hover{
+      text-decoration: none;
+    }
